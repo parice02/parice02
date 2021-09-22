@@ -6,8 +6,8 @@
 
 
 <p align="center">
- [![Muhammed Zeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=price02&count_private=true&show_icons=true)](https://github.com/parice02/)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&layout=compact&count_private=true)](https://github.com/parice02/)
+ <img src="https://github-readme-stats.vercel.app/api?username=parice02&theme=tokyonight&count_private=true&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&theme=tokyonight&count_private=true&layout=compact"/>
 </p>  
 
 <!---
