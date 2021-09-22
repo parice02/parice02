@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parice02&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parice02&repo=anagram)](https://github.com/parice02/anagram)
 
 
 <p align="center">
