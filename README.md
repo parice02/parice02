@@ -7,6 +7,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parice02&repo=anagram)](https://github.com/parice02/anagram)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&layout=compact&count_private=true)](https://github.com/parice02/)
+
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&theme=tokyonight&count_private=true"/>
