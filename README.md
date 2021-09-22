@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&theme=tokyonight&count_private=true"/>
- <img src="https://github-readme-stats.vercel.app/api?username=parice02&theme=tokyonight&count_private=true"/>       
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&theme=tokyonight&count_private=true&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=parice02&theme=tokyonight&count_private=true&show_icons=true"/>       
 </p>  
 
 <!---
