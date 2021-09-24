@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![](https://komarev.com/ghpvc/?username=parice02&style=flat-square)
-
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=parice02&count_private=true&show_icons=true"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parice02&count_private=true&layout=compact"/>
