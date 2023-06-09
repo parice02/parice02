@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 <p align="center">
- <img src="https://github-readme-stats-parice02.vercel.app/api?username=parice02&count_private=true&show_icons=true"/>
- <img src="https://github-readme-stats-parice02.vercel.app/api/top-langs/?username=parice02&count_private=true&layout=compact"/>
+ <img src="https://github-readme-stats-parice02.vercel.app/api?username=parice02&include_all_commits=true&show_icons=true"/>
+ <img src="https://github-readme-stats-parice02.vercel.app/api/top-langs/?username=parice02&include_all_commits=true&layout=compact"/>
  <img src="https://streak-stats.demolab.com?user=parice02"/>
 </p>
 
